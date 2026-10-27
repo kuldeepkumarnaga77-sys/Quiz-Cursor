@@ -25,7 +25,7 @@ The Quiz App is a beginner-level project created to explore application developm
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Kanishka-Tripathi2007/Quiz-cursor-.git
+   git clone https://github.com/kuldeepkumarnaga77-sys/Quiz-Cursor.git
    ```
 
 2. Open the downloaded project folder in your code editor.
@@ -50,7 +50,7 @@ The Quiz App is a beginner-level project created to explore application developm
 
 ## Author
 
-**Kanishka Tripathi**
+**Kuldeep Kumar Naga**
 
-* GitHub: [Kanishka-Tripathi2007](https://github.com/Kanishka-Tripathi2007)
-* Project Repository: [Quiz-cursor-](https://github.com/Kanishka-Tripathi2007/Quiz-cursor-)
+* GitHub: [Kuldeepkumarnaga77-sys](https://github.com/Kuldeepkumarnaga77-sys)
+* Project Repository: [Quiz-cursor-](https://github.com/Kuldeekumarnaga77-sys/Quiz-Cursor)
